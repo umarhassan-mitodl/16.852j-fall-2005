@@ -77,9 +77,9 @@ Spear, Steven, and H. Kent Bowen. "Decoding the DNA of the Toyota Production Sys
 
 *References*
 
-"{{% resource_link "dcf5a9b0-9df7-497e-a678-4caf8e5e976b" "Introduction to Lean Enterprise Concepts" %}}." On-line DAU module.
+"[Introduction to Lean Enterprise Concepts](https://icatalog.dau.edu/mobile/CLModuleDetails.aspx?id=262)." On-line DAU module.
 
-Nightingale, D., and Alexis Stanke. *EVSMA Guide: Enterprise Value Stream Mapping and Analysis*. Release 1.0, August 2005. {{% resource_link "f7e81ca6-dd37-4e10-89c2-95e7d3c04b73" "Lean Aerospace Initiative" %}}.
+Nightingale, D., and Alexis Stanke. *EVSMA Guide: Enterprise Value Stream Mapping and Analysis*. Release 1.0, August 2005. [Lean Aerospace Initiative](https://dspace.mit.edu/bitstream/handle/1721.1/83609/EdNet_090807_McManus_EVSMAtalk.pdf?sequence=1).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -157,7 +157,7 @@ Womack. *Lean Thinking*. Chapters 6-7.
 
 Dillon, Andrew, and Shigeo Shingo. *A Study of the Toyota Production System: From an Industrial Engineering Viewpoint*. University Park, IL: Productivity Press, 1989. ISBN: 0915299178.
 
-{{% resource_link "20af8d39-7cfd-4e64-894e-d75933a669bf" "LAI Production Operations Transition-to-Lean Roadmap (PDF)" %}}
+[LAI Production Operations Transition-to-Lean Roadmap (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/81899/PRD_TTL_ProdOpsDoc_V.1_2000.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -171,9 +171,9 @@ How do I Transform to Become a Lean Enterprise?
 
 *Readings*
 
-Jobo, Ronald. "Applying the Lessons of Lean Now to Transform the US Aerospace Enterprise." LAI Working Paper, 2003. {{% resource_link "20e873f3-1783-4271-b8e3-3adc7cc6cb15" "Lean Aerospace Initiative" %}}.
+Jobo, Ronald. "Applying the Lessons of Lean Now to Transform the US Aerospace Enterprise." LAI Working Paper, 2003. [Lean Aerospace Initiative](http://web.archive.org/web/20140627080720/https://ssrc.mit.edu/programs/lean-advancement-initiative-lai).
 
-Heman, Justin. "The Paveway Program Transformation." LAI Working Paper, 2005. {{% resource_link "6ad0c078-b16b-446e-87ca-3554856f024a" "Lean Aerospace Initiative" %}}.
+Heman, Justin. "The Paveway Program Transformation." LAI Working Paper, 2005. [Lean Aerospace Initiative](http://ssrc.mit.edu/programs/lean-advancement-initiative-lai).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -203,7 +203,7 @@ Campbell, Ernest B., Jr. "Managing the Defense Industry Transition to Performanc
 
 White, Eric A. "Lean Enterprise Distribution Tactics with Customer Supply Chain Integration." MIT Thesis, May 2003. ({{% resource_link "2234bf4c-1401-e3c4-6d10-fd5634b6bea0" "PDF - 7.9 MB" %}})
 
-Cutcher-Gershenfeld, Joel. "Customer and Supplier Integration Across the Supply Chain." LAI Implementation Team Workshop Paper, 1999. {{% resource_link "cd54a150-17a8-4743-b83a-f570f7635317" "Lean Aerospace Initiative" %}}.
+Cutcher-Gershenfeld, Joel. "Customer and Supplier Integration Across the Supply Chain." LAI Implementation Team Workshop Paper, 1999. [Lean Aerospace Initiative](http://lean.mit.edu/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -227,7 +227,7 @@ Information Wastes
 
 Womack. *Lean Thinking*. Chapters 8-10.
 
-Ferdowsi, Bobak, and Alexis Stanke. "LEAP Case Study: F-16 Case Study Report." LAI Working Paper, 2002. {{% resource_link "cd54a150-17a8-4743-b83a-f570f7635317" "Lean Aerospace Initiative" %}}.
+Ferdowsi, Bobak, and Alexis Stanke. "LEAP Case Study: F-16 Case Study Report." LAI Working Paper, 2002. [Lean Aerospace Initiative](http://lean.mit.edu/).
 
 McManus, Hugh, Al Haggerty, and Earll Murman. "Lean Engineering: Doing the Right Thing Right." Paper delivered to the 1st International Conference on Innovation and Integration in Aerospace Sciences, August 2005.
 
@@ -237,7 +237,7 @@ Stanke, Alexis, and Earll Murman. "A Framework for Achieving Lifecycle Value in 
 
 *References*
 
-Secor, Deb, and Dean Bliss. "Transforming the Enterprise Product Development Function." LAI Presentation, March 24, 2005. {{% resource_link "cd54a150-17a8-4743-b83a-f570f7635317" "Lean Aerospace Initiative" %}}.
+Secor, Deb, and Dean Bliss. "Transforming the Enterprise Product Development Function." LAI Presentation, March 24, 2005. [Lean Aerospace Initiative](http://lean.mit.edu/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -249,7 +249,7 @@ Lean Systems Engineering and Integrated Concurrent Engineering
 
 Bozdogan, Kirk, John Deyst, David Hoult, and Malee Lucas. "Architectural Innovation in Product Development Through Early Supplier Integration." *R&D Management* 28, no. 3 (1998): 163-173.
 
-Honour, Eric C. "Value of Systems Engineering." LAI Technical Report, 2004. {{% resource_link "cd54a150-17a8-4743-b83a-f570f7635317" "Lean Aerospace Initiative" %}}.
+Honour, Eric C. "Value of Systems Engineering." LAI Technical Report, 2004. [Lean Aerospace Initiative](http://lean.mit.edu/).
 
 Browning, Tyson R. "Exploring Integrative Mechanisms with a View Towards Design for Integration." *Advances in Concurrent Engineering* CE97 (August 20-22, 1997): 83-90.
 
@@ -339,7 +339,7 @@ Nightingale, Deborah, and Joe Mize. "Development of a Lean Enterprise Transforma
 
 *References*
 
-{{% resource_link "fedf5ac8-778b-4fcf-bae0-f6cbcd504164" "MIT Lean Enterprise Self-Assessment Tool" %}}
+[MIT Lean Enterprise Self-Assessment Tool](https://dspace.mit.edu/handle/1721.1/81903)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -357,7 +357,7 @@ Danvenport, Thomas. "Putting the Enterprise into the Enterprise System." *Harvar
 
 *References*
 
-Hines, Erisa, and Jayakanth Srinivasan. "IT Enabled Enterprise Transformation: Perspectives Using Product Data Management." LAI Working Paper, 2004. {{% resource_link "cd54a150-17a8-4743-b83a-f570f7635317" "Lean Aerospace Initiative" %}}.
+Hines, Erisa, and Jayakanth Srinivasan. "IT Enabled Enterprise Transformation: Perspectives Using Product Data Management." LAI Working Paper, 2004. [Lean Aerospace Initiative](http://lean.mit.edu/).
 
 Yusuf, Yahaya, A. Gunasekaran, and Mark Abthorpe. "Enterprise Information Systems Project Implementation: A Case Study of ERP in Rolls-Royce." *International Journal of Production Economics* 87, no. 3 (2004): 251-266.
 
